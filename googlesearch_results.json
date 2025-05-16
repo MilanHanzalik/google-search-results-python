@@ -1,0 +1,364 @@
+{
+  "search_metadata": {
+    "id": "6827b87cd1a72bef3e17019d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d9d4c1f16fddf7dc/6827b87cd1a72bef3e17019d.json",
+    "created_at": "2025-05-16 22:13:16 UTC",
+    "processed_at": "2025-05-16 22:13:16 UTC",
+    "google_url": "https://www.google.sk/search?q=MC+POWER+GROUP%2C+s.+r.+o.&oq=MC+POWER+GROUP%2C+s.+r.+o.&uule=Slovakia&hl=sk&gl=sk&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/d9d4c1f16fddf7dc/6827b87cd1a72bef3e17019d.html",
+    "total_time_taken": 1.37
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "MC POWER GROUP, s. r. o.",
+    "uule": "Slovakia",
+    "google_domain": "google.sk",
+    "hl": "sk",
+    "gl": "sk",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "MC POWER GROUP, s. r. o.",
+    "total_results": 411000,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling",
+    "results_for": null
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "MC POWER GROUP, s. r. o. - Účtovné závierky",
+      "link": "https://finstat.sk/52915689",
+      "redirect_link": "https://www.google.sk/url?sa=t&source=web&rct=j&opi=89978449&url=https://finstat.sk/52915689&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQFnoECAoQAQ&usg=AOvVaw3yrnJ75HR3g06JN6lVFanZ",
+      "displayed_link": "https://finstat.sk › ...",
+      "favicon": "https://serpapi.com/searches/6827b87cd1a72bef3e17019d/images/17b95d3f419300dc158c06839530cfebf1ea0f4a64eaf9b19ac9d13a0d82f7a8.png",
+      "snippet": "Spoločnosť MC POWER GROUP, s. r. o. v roku 2023 znížila zisk o 60 % na 17 517 € a tržby jej klesli o 37 % na 817 876 €. IČO 52915689; DIČ 2121447614 ...",
+      "snippet_highlighted_words": [
+        "Spoločnosť MC POWER GROUP, s. r. o. v roku 2023 znížila zisk o 60 % na 17 517 €"
+      ],
+      "source": "FinStat"
+    },
+    {
+      "position": 2,
+      "title": "MC Power: Odborný personál pre kovovýrobu a stavebníctvo",
+      "link": "https://mc-power.eu/",
+      "redirect_link": "https://www.google.sk/url?sa=t&source=web&rct=j&opi=89978449&url=https://mc-power.eu/&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQFnoECBAQAQ&usg=AOvVaw0F8chFEE9FKUyKQGJ6Omdf",
+      "displayed_link": "https://mc-power.eu",
+      "favicon": "https://serpapi.com/searches/6827b87cd1a72bef3e17019d/images/17b95d3f419300dc158c06839530cfebb1f685484fdf4244a6909f455e023285.png",
+      "snippet": "KOVOVÝROBA. Potrebujete zváračov, montážníkov, lakovačov, operátorov výroby...? Rýchlo, efektívne a spoľahlivo? ; STAVEBNÍCTVO. Chcete murovať, obkladať, ...",
+      "snippet_highlighted_words": ["KOVOVÝROBA"],
+      "source": "mc-power.eu"
+    },
+    {
+      "position": 3,
+      "title": "MC POWER GROUP, s. r. o.",
+      "link": "https://www.orsr.sk/vypis.asp?ID=513166&SID=2&P=0",
+      "redirect_link": "https://www.google.sk/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orsr.sk/vypis.asp%3FID%3D513166%26SID%3D2%26P%3D0&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQFnoECBUQAQ&usg=AOvVaw28PHZYTDQWpWR7Im6oGtxJ",
+      "displayed_link": "https://www.orsr.sk › vypis",
+      "favicon": "https://serpapi.com/searches/6827b87cd1a72bef3e17019d/images/17b95d3f419300dc158c06839530cfeb0cce3e3728d86372c20e2d22b2e2951e.png",
+      "snippet": "Oddiel: Sro, Vložka číslo: 144922/B. Obchodné meno: MC POWER GROUP, s. r. o., (od: 14.05.2020). Sídlo: Dunajská 8. Bratislava - mestská časť Staré Mesto 811 08",
+      "snippet_highlighted_words": ["Oddiel: Sro, Vložka číslo: 144922/B"],
+      "source": "Obchodný register"
+    },
+    {
+      "position": 4,
+      "title": "Kontakt - MC Power",
+      "link": "https://mc-power.eu/kontakt/",
+      "redirect_link": "https://www.google.sk/url?sa=t&source=web&rct=j&opi=89978449&url=https://mc-power.eu/kontakt/&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQFnoECBYQAQ&usg=AOvVaw1XuVfif9QJ91LJT0ocY7b-",
+      "displayed_link": "https://mc-power.eu › kontakt",
+      "thumbnail": "https://serpapi.com/searches/6827b87cd1a72bef3e17019d/images/17b95d3f419300dc158c06839530cfeb88cb50c137835743b08f99e607d16387.jpeg",
+      "favicon": "https://serpapi.com/searches/6827b87cd1a72bef3e17019d/images/17b95d3f419300dc158c06839530cfebbb1ada8620df230c0b738a67e6735c9c.png",
+      "snippet": "(v pracovné dni od 9:00 – 16:00 hod.) MC Power Bratislava. +421-908-409-597. info@mc-power.sk. Dunajská 8, 811 08 Bratislava, Slovensko. MC Power Prešov.",
+      "snippet_highlighted_words": ["MC Power Bratislava"],
+      "source": "mc-power.eu"
+    },
+    {
+      "position": 5,
+      "title": "MC POWER , s.r.o - krok k lepšej budúcnosti",
+      "link": "https://www.facebook.com/MC.Power.sk/?locale=sk_SK",
+      "redirect_link": "https://www.google.sk/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/MC.Power.sk/%3Flocale%3Dsk_SK&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQFnoECBcQAQ&usg=AOvVaw3sfEmknL5DqWcjTw67krCL",
+      "displayed_link": "Viac než 1,6 tis. sledovateľov",
+      "thumbnail": "https://serpapi.com/searches/6827b87cd1a72bef3e17019d/images/17b95d3f419300dc158c06839530cfeb35ed47902dfe7832cac02a52c09a2b4f.png",
+      "favicon": "https://serpapi.com/searches/6827b87cd1a72bef3e17019d/images/17b95d3f419300dc158c06839530cfeb3cc145940779c666249e1b2cd7b22464.png",
+      "snippet": "Nudimo primamljivu platu, motivišuće bonuse, besplatan smeštaj, kao i mogućnost daljeg napredovanja. MC POWER - korak ka boljoj budućnosti · 24.",
+      "snippet_highlighted_words": [
+        "Nudimo primamljivu platu, motivišuće bonuse, besplatan smeštaj"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.3,
+            "reviews": 6
+          },
+          "extensions": ["4,3(6)", "Vyhľadávanie Google recenzie neoveruje"]
+        }
+      },
+      "source": "Facebook · MC POWER , s.r.o - krok k lepšej budúcnosti"
+    },
+    {
+      "position": 6,
+      "title": "MC POWER GROUP, s. r. o. - Obchodný register",
+      "link": "https://finstat.sk/52915689/obchodny_register",
+      "redirect_link": "https://www.google.sk/url?sa=t&source=web&rct=j&opi=89978449&url=https://finstat.sk/52915689/obchodny_register&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQFnoECBIQAQ&usg=AOvVaw1RyqXv6vy0vzkNiVqPuZKi",
+      "displayed_link": "https://finstat.sk › obchodny_register",
+      "favicon": "https://serpapi.com/searches/6827b87cd1a72bef3e17019d/images/17b95d3f419300dc158c06839530cfeb8a94fa2b6dba4d79e2a873cb16fa550f.png",
+      "snippet": "Názov MC POWER GROUP, s. r. o. · IČO 52915689 · DIČ 2121447614 · IČ DPH SK2121447614 podľa §4 · Sídlo Dunajská 8, 811 08 Bratislava - mestská časť Staré Mesto ...",
+      "snippet_highlighted_words": ["IČO 52915689"],
+      "source": "FinStat"
+    },
+    {
+      "position": 7,
+      "title": "MC POWER GROUP, s. r. o. - Informácie o firme",
+      "link": "https://prever.to/firma/52915689",
+      "redirect_link": "https://www.google.sk/url?sa=t&source=web&rct=j&opi=89978449&url=https://prever.to/firma/52915689&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQFnoECBEQAQ&usg=AOvVaw3D9qvXQA38-oLPcAm5sl51",
+      "displayed_link": "https://prever.to › firma",
+      "favicon": "https://serpapi.com/searches/6827b87cd1a72bef3e17019d/images/17b95d3f419300dc158c06839530cfeb5c9161a5dbf607dec7e13e0c38761465.png",
+      "snippet": "IČO52915689 ; DIČ2121447614 ; IČ DPHSK2121447614 ; SídloDunajská 8, 81108 Bratislava - mestská časť Staré Mesto ; Dátum zápisu (vzniku)14.05.2020 ...",
+      "snippet_highlighted_words": ["IČO52915689"],
+      "source": "Prever.to"
+    },
+    {
+      "position": 8,
+      "title": "Výpis z obchodného registra SR",
+      "link": "https://www.orsr.sk/vypis.asp?ID=243522&SID=2&P=1",
+      "redirect_link": "https://www.google.sk/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orsr.sk/vypis.asp%3FID%3D243522%26SID%3D2%26P%3D1&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQFnoECDcQAQ&usg=AOvVaw13mdUw9NzCTGb1DqT6LSdw",
+      "displayed_link": "https://www.orsr.sk › vypis",
+      "favicon": "https://serpapi.com/searches/6827b87cd1a72bef3e17019d/images/17b95d3f419300dc158c06839530cfeb8f659666be3be7c376276010a5c72749.png",
+      "snippet": "MC POWER, s.r.o., (od: 09.12.2015). EXPERIOR SLOVAKIA, s.r.o., (od: 29.08.2012 ... Spoločnosť bola založená zakladateľskou listinou zo dňa 30.07.2012 v ...",
+      "snippet_highlighted_words": ["MC POWER, s.r.o"],
+      "source": "Obchodný register"
+    },
+    {
+      "position": 9,
+      "title": "MC POWER GROUP, s. r. o. - IČO: 52915689 - DIČ",
+      "link": "https://www.registeruz.sk/cruz-public/domain/accountingentity/show/1909960?sortBy=period&sortOrder=asc",
+      "redirect_link": "https://www.google.sk/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.registeruz.sk/cruz-public/domain/accountingentity/show/1909960%3FsortBy%3Dperiod%26sortOrder%3Dasc&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQFnoECDgQAQ&usg=AOvVaw1Dp04oUUJIN4MpazieVvPv",
+      "displayed_link": "https://www.registeruz.sk › accountingentity › show",
+      "favicon": "https://serpapi.com/searches/6827b87cd1a72bef3e17019d/images/17b95d3f419300dc158c06839530cfebc3e0427c039a93f54116c46311f135f8.png",
+      "snippet": "Adresa: Dunajská 8 81108 Bratislava-Staré Mesto. Okres: Bratislava I. Kraj: Bratislavský kraj. Právna forma: Spol. s r. o.. Kat. veľkosti: nezistený.",
+      "snippet_highlighted_words": [
+        "Adresa: Dunajská 8 81108 Bratislava-Staré Mesto"
+      ],
+      "source": "Register účtovných závierok"
+    },
+    {
+      "position": 10,
+      "title": "MC POWER, s.r.o. - Informácie o firme",
+      "link": "https://prever.to/firma/46800638",
+      "redirect_link": "https://www.google.sk/url?sa=t&source=web&rct=j&opi=89978449&url=https://prever.to/firma/46800638&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQFnoECDYQAQ&usg=AOvVaw1I1LGHr_Rhb0D_nCVsBQkd",
+      "displayed_link": "https://prever.to › firma",
+      "favicon": "https://serpapi.com/searches/6827b87cd1a72bef3e17019d/images/17b95d3f419300dc158c06839530cfeb4b8d1f6fa1cab4fa380d100117f8f25e.png",
+      "snippet": "Spoločnosť MC POWER, s.r.o. bola založená 29.08.2012. Ako hlavný predmet podnikania má \"Opracovanie a povrchová úprava kovov\".",
+      "snippet_highlighted_words": [
+        "Spoločnosť MC POWER, s.r.o. bola založená 29.08.2012"
+      ],
+      "source": "Prever.to"
+    }
+  ],
+  "filters": [
+    {
+      "name": "Dátum uverejnenia",
+      "options": [
+        {
+          "name": "Včera",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRDSLPZ40sjfDc1m6mQ0EMlFQWwh3DpE7EJfKXahUP2cJvQ-yNyzHed32wNxtqMLKd1-iV3CSKyksHbKac2VtscqXU5gG31nVNDNe7nBEOT65h9KxtmANcoLLp8AC3XGDdd5rmgODCg-zq2lpm-LiLSMmhaw6yiRqjDkleb46HPj_yq13nIq9SlZRUUlcDiFDDdH3q5IVgdbRLnutRTJGVmJY7cDY89w9RhZ2KB7OlQjiIxT6IK0dMzJUxw-odrztdxAUnWAqzKVweqmEUmGvnnSBQpB-QzXzkpSokMSWfCbVAq_cVpTW9D8ruWDq9a14J4GvygDCn5tx7mB7aAlGE6fH1n9v2c2UEojZ4eCRbx_FGxNCV",
+            "q": "MC POWER GROUP, s. r. o. od včerajška"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+od+v%C4%8Deraj%C5%A1ka&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRDSLPZ40sjfDc1m6mQ0EMlFQWwh3DpE7EJfKXahUP2cJvQ-yNyzHed32wNxtqMLKd1-iV3CSKyksHbKac2VtscqXU5gG31nVNDNe7nBEOT65h9KxtmANcoLLp8AC3XGDdd5rmgODCg-zq2lpm-LiLSMmhaw6yiRqjDkleb46HPj_yq13nIq9SlZRUUlcDiFDDdH3q5IVgdbRLnutRTJGVmJY7cDY89w9RhZ2KB7OlQjiIxT6IK0dMzJUxw-odrztdxAUnWAqzKVweqmEUmGvnnSBQpB-QzXzkpSokMSWfCbVAq_cVpTW9D8ruWDq9a14J4GvygDCn5tx7mB7aAlGE6fH1n9v2c2UEojZ4eCRbx_FGxNCV&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQILxAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+od+v%C4%8Deraj%C5%A1ka&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRDSLPZ40sjfDc1m6mQ0EMlFQWwh3DpE7EJfKXahUP2cJvQ-yNyzHed32wNxtqMLKd1-iV3CSKyksHbKac2VtscqXU5gG31nVNDNe7nBEOT65h9KxtmANcoLLp8AC3XGDdd5rmgODCg-zq2lpm-LiLSMmhaw6yiRqjDkleb46HPj_yq13nIq9SlZRUUlcDiFDDdH3q5IVgdbRLnutRTJGVmJY7cDY89w9RhZ2KB7OlQjiIxT6IK0dMzJUxw-odrztdxAUnWAqzKVweqmEUmGvnnSBQpB-QzXzkpSokMSWfCbVAq_cVpTW9D8ruWDq9a14J4GvygDCn5tx7mB7aAlGE6fH1n9v2c2UEojZ4eCRbx_FGxNCV&uule=Slovakia"
+        },
+        {
+          "name": "Posledné 3 dni",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRVXxqnRIjdX3eV23qocO1ljzLDHEiYWMybC2OXyL6GUiVN4bgZ_0w_0x-qpKT6sZc8H0QolroBjcn0LOSTa9XZ-_WmDlKHYqw7ZNhTkM10ZvBufwaIhEOuLPgkFO8I4J_uuQ4_QpKzjHzg_wjs7sG08LL7duXOYdwcQje0_FIM84WBXxQuW8EXfTfAyBE27qNf3oKejtQgVYlWG5y1RE_MDNpH6KnYtIKjwzPYJovFOP2lpbN5tmMvtICiKKQEKfIFif7F_ow9Pv4ONeDmkM_N4AChCGdluNts-A1blBzRqo8GsIVSjARNgRghA-MmuNU1utz9P6844NlgJl3C2bYa_dFQxfrFkmzG8nPLHbmC-m4pNSK",
+            "q": "MC POWER GROUP, s. r. o. za posledné 3 dni"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+za+posledn%C3%A9+3%C2%A0dni&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRVXxqnRIjdX3eV23qocO1ljzLDHEiYWMybC2OXyL6GUiVN4bgZ_0w_0x-qpKT6sZc8H0QolroBjcn0LOSTa9XZ-_WmDlKHYqw7ZNhTkM10ZvBufwaIhEOuLPgkFO8I4J_uuQ4_QpKzjHzg_wjs7sG08LL7duXOYdwcQje0_FIM84WBXxQuW8EXfTfAyBE27qNf3oKejtQgVYlWG5y1RE_MDNpH6KnYtIKjwzPYJovFOP2lpbN5tmMvtICiKKQEKfIFif7F_ow9Pv4ONeDmkM_N4AChCGdluNts-A1blBzRqo8GsIVSjARNgRghA-MmuNU1utz9P6844NlgJl3C2bYa_dFQxfrFkmzG8nPLHbmC-m4pNSK&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQILxAD",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+za+posledn%C3%A9+3%C2%A0dni&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRVXxqnRIjdX3eV23qocO1ljzLDHEiYWMybC2OXyL6GUiVN4bgZ_0w_0x-qpKT6sZc8H0QolroBjcn0LOSTa9XZ-_WmDlKHYqw7ZNhTkM10ZvBufwaIhEOuLPgkFO8I4J_uuQ4_QpKzjHzg_wjs7sG08LL7duXOYdwcQje0_FIM84WBXxQuW8EXfTfAyBE27qNf3oKejtQgVYlWG5y1RE_MDNpH6KnYtIKjwzPYJovFOP2lpbN5tmMvtICiKKQEKfIFif7F_ow9Pv4ONeDmkM_N4AChCGdluNts-A1blBzRqo8GsIVSjARNgRghA-MmuNU1utz9P6844NlgJl3C2bYa_dFQxfrFkmzG8nPLHbmC-m4pNSK&uule=Slovakia"
+        },
+        {
+          "name": "Posledný týždeň",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRxiw2KuXsJx0EiBWu3K0Crc24Rc0HMbx-SEFmnkuzDeAWANuljBqSD00UaYoSG25SME0-Q7z49jMbr9ISlyXu50J4vjx6UE5K2toMcghQIxbwqKD-RVP0CL0n0oyJt7vQF54UPEBmR9bNiYU8xQW_fnHtTYzT426m6_ojUyhIwWhYI2Rs6fuc8xjcLL3NfwexWETaqYm_0_DXG96FdjnuUNvJKYT4GWNN3mr63zKc5AT7htSH9sPaiebpMCtTHBWpkV87ocuVYi4cYmuGk2uEVCcQy8jQcB9F26Seo64sO1F-5JqvBr3OSvAV4iweD_hEbfYgW-OxZj_Zp8rxsZ1pFMJ4Irwr8NIzc-JM2pZYrS8lGP6h",
+            "q": "MC POWER GROUP, s. r. o. za posledný týždeň"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+za+posledn%C3%BD+t%C3%BD%C5%BEde%C5%88&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRxiw2KuXsJx0EiBWu3K0Crc24Rc0HMbx-SEFmnkuzDeAWANuljBqSD00UaYoSG25SME0-Q7z49jMbr9ISlyXu50J4vjx6UE5K2toMcghQIxbwqKD-RVP0CL0n0oyJt7vQF54UPEBmR9bNiYU8xQW_fnHtTYzT426m6_ojUyhIwWhYI2Rs6fuc8xjcLL3NfwexWETaqYm_0_DXG96FdjnuUNvJKYT4GWNN3mr63zKc5AT7htSH9sPaiebpMCtTHBWpkV87ocuVYi4cYmuGk2uEVCcQy8jQcB9F26Seo64sO1F-5JqvBr3OSvAV4iweD_hEbfYgW-OxZj_Zp8rxsZ1pFMJ4Irwr8NIzc-JM2pZYrS8lGP6h&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQILxAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+za+posledn%C3%BD+t%C3%BD%C5%BEde%C5%88&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRxiw2KuXsJx0EiBWu3K0Crc24Rc0HMbx-SEFmnkuzDeAWANuljBqSD00UaYoSG25SME0-Q7z49jMbr9ISlyXu50J4vjx6UE5K2toMcghQIxbwqKD-RVP0CL0n0oyJt7vQF54UPEBmR9bNiYU8xQW_fnHtTYzT426m6_ojUyhIwWhYI2Rs6fuc8xjcLL3NfwexWETaqYm_0_DXG96FdjnuUNvJKYT4GWNN3mr63zKc5AT7htSH9sPaiebpMCtTHBWpkV87ocuVYi4cYmuGk2uEVCcQy8jQcB9F26Seo64sO1F-5JqvBr3OSvAV4iweD_hEbfYgW-OxZj_Zp8rxsZ1pFMJ4Irwr8NIzc-JM2pZYrS8lGP6h&uule=Slovakia"
+        },
+        {
+          "name": "Posledný mesiac",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRVXxqnRIjdX3eV23qocO1ljzLDHEiYWMybC2OXyL6GUiVN4bgZ_0w_0x-qpKT6sZcLSTuB5hHqBDno6C58l8lVDvfwjdw7aJMxJ4D77JAJEkNwLSGrDhHkOG8lN8_lLbSe4q3i3FgxjxUwnbCyrMDJ8kpXqIOCFQDpT2u7naMCm15P7V3KQCqUDhZdf1YKed3ZmjU67wOkZ6V7QKhlS-VLH269p2RWrsrcHpBUxqk-qzLVSkAu1bdbWZ6neXlOJIcmyGd789iEWmNIl8XcIaESdQ0DFhvJdXsRuG5r7S8Lsr5KK6ctFwQ-LkgPCGE1qFx-juz4cLfU9rSLuZcmIOU_N_DCKg9O3YtV77E8IBkjhZZwXP7",
+            "q": "MC POWER GROUP, s. r. o. za posledný mesiac"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+za+posledn%C3%BD+mesiac&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRVXxqnRIjdX3eV23qocO1ljzLDHEiYWMybC2OXyL6GUiVN4bgZ_0w_0x-qpKT6sZcLSTuB5hHqBDno6C58l8lVDvfwjdw7aJMxJ4D77JAJEkNwLSGrDhHkOG8lN8_lLbSe4q3i3FgxjxUwnbCyrMDJ8kpXqIOCFQDpT2u7naMCm15P7V3KQCqUDhZdf1YKed3ZmjU67wOkZ6V7QKhlS-VLH269p2RWrsrcHpBUxqk-qzLVSkAu1bdbWZ6neXlOJIcmyGd789iEWmNIl8XcIaESdQ0DFhvJdXsRuG5r7S8Lsr5KK6ctFwQ-LkgPCGE1qFx-juz4cLfU9rSLuZcmIOU_N_DCKg9O3YtV77E8IBkjhZZwXP7&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQILxAF",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+za+posledn%C3%BD+mesiac&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRVXxqnRIjdX3eV23qocO1ljzLDHEiYWMybC2OXyL6GUiVN4bgZ_0w_0x-qpKT6sZcLSTuB5hHqBDno6C58l8lVDvfwjdw7aJMxJ4D77JAJEkNwLSGrDhHkOG8lN8_lLbSe4q3i3FgxjxUwnbCyrMDJ8kpXqIOCFQDpT2u7naMCm15P7V3KQCqUDhZdf1YKed3ZmjU67wOkZ6V7QKhlS-VLH269p2RWrsrcHpBUxqk-qzLVSkAu1bdbWZ6neXlOJIcmyGd789iEWmNIl8XcIaESdQ0DFhvJdXsRuG5r7S8Lsr5KK6ctFwQ-LkgPCGE1qFx-juz4cLfU9rSLuZcmIOU_N_DCKg9O3YtV77E8IBkjhZZwXP7&uule=Slovakia"
+        }
+      ]
+    },
+    {
+      "name": "Dátum uverejnenia",
+      "options": [
+        {
+          "name": "Včera",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRDSLPZ40sjfDc1m6mQ0EMlFQWwh3DpE7EJfKXahUP2cJvQ-yNyzHed32wNxtqMLKd1-iV3CSKyksHbKac2VtscqXU5gG31nVNDNe7nBEOT65h9KxtmANcoLLp8AC3XGDdd5rmgODCg-zq2lpm-LiLSMmhaw6yiRqjDkleb46HPj_yq13nIq9SlZRUUlcDiFDDdH3q5IVgdbRLnutRTJGVmJY7cDY89w9RhZ2KB7OlQjiIxT6IK0dMzJUxw-odrztdxAUnWAqzKVweqmEUmGvnnSBQpB-QzXzkpSokMSWfCbVAq_cVpTW9D8ruWDq9a14J4GvygDCn5tx7mB7aAlGE6fH1n9v2c2UEojZ4eCRbx_FGxNCV",
+            "q": "MC POWER GROUP, s. r. o. od včerajška"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+od+v%C4%8Deraj%C5%A1ka&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRDSLPZ40sjfDc1m6mQ0EMlFQWwh3DpE7EJfKXahUP2cJvQ-yNyzHed32wNxtqMLKd1-iV3CSKyksHbKac2VtscqXU5gG31nVNDNe7nBEOT65h9KxtmANcoLLp8AC3XGDdd5rmgODCg-zq2lpm-LiLSMmhaw6yiRqjDkleb46HPj_yq13nIq9SlZRUUlcDiFDDdH3q5IVgdbRLnutRTJGVmJY7cDY89w9RhZ2KB7OlQjiIxT6IK0dMzJUxw-odrztdxAUnWAqzKVweqmEUmGvnnSBQpB-QzXzkpSokMSWfCbVAq_cVpTW9D8ruWDq9a14J4GvygDCn5tx7mB7aAlGE6fH1n9v2c2UEojZ4eCRbx_FGxNCV&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQILxAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+od+v%C4%8Deraj%C5%A1ka&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRDSLPZ40sjfDc1m6mQ0EMlFQWwh3DpE7EJfKXahUP2cJvQ-yNyzHed32wNxtqMLKd1-iV3CSKyksHbKac2VtscqXU5gG31nVNDNe7nBEOT65h9KxtmANcoLLp8AC3XGDdd5rmgODCg-zq2lpm-LiLSMmhaw6yiRqjDkleb46HPj_yq13nIq9SlZRUUlcDiFDDdH3q5IVgdbRLnutRTJGVmJY7cDY89w9RhZ2KB7OlQjiIxT6IK0dMzJUxw-odrztdxAUnWAqzKVweqmEUmGvnnSBQpB-QzXzkpSokMSWfCbVAq_cVpTW9D8ruWDq9a14J4GvygDCn5tx7mB7aAlGE6fH1n9v2c2UEojZ4eCRbx_FGxNCV&uule=Slovakia"
+        },
+        {
+          "name": "Posledné 3 dni",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRVXxqnRIjdX3eV23qocO1ljzLDHEiYWMybC2OXyL6GUiVN4bgZ_0w_0x-qpKT6sZc8H0QolroBjcn0LOSTa9XZ-_WmDlKHYqw7ZNhTkM10ZvBufwaIhEOuLPgkFO8I4J_uuQ4_QpKzjHzg_wjs7sG08LL7duXOYdwcQje0_FIM84WBXxQuW8EXfTfAyBE27qNf3oKejtQgVYlWG5y1RE_MDNpH6KnYtIKjwzPYJovFOP2lpbN5tmMvtICiKKQEKfIFif7F_ow9Pv4ONeDmkM_N4AChCGdluNts-A1blBzRqo8GsIVSjARNgRghA-MmuNU1utz9P6844NlgJl3C2bYa_dFQxfrFkmzG8nPLHbmC-m4pNSK",
+            "q": "MC POWER GROUP, s. r. o. za posledné 3 dni"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+za+posledn%C3%A9+3%C2%A0dni&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRVXxqnRIjdX3eV23qocO1ljzLDHEiYWMybC2OXyL6GUiVN4bgZ_0w_0x-qpKT6sZc8H0QolroBjcn0LOSTa9XZ-_WmDlKHYqw7ZNhTkM10ZvBufwaIhEOuLPgkFO8I4J_uuQ4_QpKzjHzg_wjs7sG08LL7duXOYdwcQje0_FIM84WBXxQuW8EXfTfAyBE27qNf3oKejtQgVYlWG5y1RE_MDNpH6KnYtIKjwzPYJovFOP2lpbN5tmMvtICiKKQEKfIFif7F_ow9Pv4ONeDmkM_N4AChCGdluNts-A1blBzRqo8GsIVSjARNgRghA-MmuNU1utz9P6844NlgJl3C2bYa_dFQxfrFkmzG8nPLHbmC-m4pNSK&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQILxAD",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+za+posledn%C3%A9+3%C2%A0dni&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRVXxqnRIjdX3eV23qocO1ljzLDHEiYWMybC2OXyL6GUiVN4bgZ_0w_0x-qpKT6sZc8H0QolroBjcn0LOSTa9XZ-_WmDlKHYqw7ZNhTkM10ZvBufwaIhEOuLPgkFO8I4J_uuQ4_QpKzjHzg_wjs7sG08LL7duXOYdwcQje0_FIM84WBXxQuW8EXfTfAyBE27qNf3oKejtQgVYlWG5y1RE_MDNpH6KnYtIKjwzPYJovFOP2lpbN5tmMvtICiKKQEKfIFif7F_ow9Pv4ONeDmkM_N4AChCGdluNts-A1blBzRqo8GsIVSjARNgRghA-MmuNU1utz9P6844NlgJl3C2bYa_dFQxfrFkmzG8nPLHbmC-m4pNSK&uule=Slovakia"
+        },
+        {
+          "name": "Posledný týždeň",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRxiw2KuXsJx0EiBWu3K0Crc24Rc0HMbx-SEFmnkuzDeAWANuljBqSD00UaYoSG25SME0-Q7z49jMbr9ISlyXu50J4vjx6UE5K2toMcghQIxbwqKD-RVP0CL0n0oyJt7vQF54UPEBmR9bNiYU8xQW_fnHtTYzT426m6_ojUyhIwWhYI2Rs6fuc8xjcLL3NfwexWETaqYm_0_DXG96FdjnuUNvJKYT4GWNN3mr63zKc5AT7htSH9sPaiebpMCtTHBWpkV87ocuVYi4cYmuGk2uEVCcQy8jQcB9F26Seo64sO1F-5JqvBr3OSvAV4iweD_hEbfYgW-OxZj_Zp8rxsZ1pFMJ4Irwr8NIzc-JM2pZYrS8lGP6h",
+            "q": "MC POWER GROUP, s. r. o. za posledný týždeň"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+za+posledn%C3%BD+t%C3%BD%C5%BEde%C5%88&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRxiw2KuXsJx0EiBWu3K0Crc24Rc0HMbx-SEFmnkuzDeAWANuljBqSD00UaYoSG25SME0-Q7z49jMbr9ISlyXu50J4vjx6UE5K2toMcghQIxbwqKD-RVP0CL0n0oyJt7vQF54UPEBmR9bNiYU8xQW_fnHtTYzT426m6_ojUyhIwWhYI2Rs6fuc8xjcLL3NfwexWETaqYm_0_DXG96FdjnuUNvJKYT4GWNN3mr63zKc5AT7htSH9sPaiebpMCtTHBWpkV87ocuVYi4cYmuGk2uEVCcQy8jQcB9F26Seo64sO1F-5JqvBr3OSvAV4iweD_hEbfYgW-OxZj_Zp8rxsZ1pFMJ4Irwr8NIzc-JM2pZYrS8lGP6h&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQILxAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+za+posledn%C3%BD+t%C3%BD%C5%BEde%C5%88&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRxiw2KuXsJx0EiBWu3K0Crc24Rc0HMbx-SEFmnkuzDeAWANuljBqSD00UaYoSG25SME0-Q7z49jMbr9ISlyXu50J4vjx6UE5K2toMcghQIxbwqKD-RVP0CL0n0oyJt7vQF54UPEBmR9bNiYU8xQW_fnHtTYzT426m6_ojUyhIwWhYI2Rs6fuc8xjcLL3NfwexWETaqYm_0_DXG96FdjnuUNvJKYT4GWNN3mr63zKc5AT7htSH9sPaiebpMCtTHBWpkV87ocuVYi4cYmuGk2uEVCcQy8jQcB9F26Seo64sO1F-5JqvBr3OSvAV4iweD_hEbfYgW-OxZj_Zp8rxsZ1pFMJ4Irwr8NIzc-JM2pZYrS8lGP6h&uule=Slovakia"
+        },
+        {
+          "name": "Posledný mesiac",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRVXxqnRIjdX3eV23qocO1ljzLDHEiYWMybC2OXyL6GUiVN4bgZ_0w_0x-qpKT6sZcLSTuB5hHqBDno6C58l8lVDvfwjdw7aJMxJ4D77JAJEkNwLSGrDhHkOG8lN8_lLbSe4q3i3FgxjxUwnbCyrMDJ8kpXqIOCFQDpT2u7naMCm15P7V3KQCqUDhZdf1YKed3ZmjU67wOkZ6V7QKhlS-VLH269p2RWrsrcHpBUxqk-qzLVSkAu1bdbWZ6neXlOJIcmyGd789iEWmNIl8XcIaESdQ0DFhvJdXsRuG5r7S8Lsr5KK6ctFwQ-LkgPCGE1qFx-juz4cLfU9rSLuZcmIOU_N_DCKg9O3YtV77E8IBkjhZZwXP7",
+            "q": "MC POWER GROUP, s. r. o. za posledný mesiac"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+za+posledn%C3%BD+mesiac&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRVXxqnRIjdX3eV23qocO1ljzLDHEiYWMybC2OXyL6GUiVN4bgZ_0w_0x-qpKT6sZcLSTuB5hHqBDno6C58l8lVDvfwjdw7aJMxJ4D77JAJEkNwLSGrDhHkOG8lN8_lLbSe4q3i3FgxjxUwnbCyrMDJ8kpXqIOCFQDpT2u7naMCm15P7V3KQCqUDhZdf1YKed3ZmjU67wOkZ6V7QKhlS-VLH269p2RWrsrcHpBUxqk-qzLVSkAu1bdbWZ6neXlOJIcmyGd789iEWmNIl8XcIaESdQ0DFhvJdXsRuG5r7S8Lsr5KK6ctFwQ-LkgPCGE1qFx-juz4cLfU9rSLuZcmIOU_N_DCKg9O3YtV77E8IBkjhZZwXP7&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQILxAF",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+za+posledn%C3%BD+mesiac&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRVXxqnRIjdX3eV23qocO1ljzLDHEiYWMybC2OXyL6GUiVN4bgZ_0w_0x-qpKT6sZcLSTuB5hHqBDno6C58l8lVDvfwjdw7aJMxJ4D77JAJEkNwLSGrDhHkOG8lN8_lLbSe4q3i3FgxjxUwnbCyrMDJ8kpXqIOCFQDpT2u7naMCm15P7V3KQCqUDhZdf1YKed3ZmjU67wOkZ6V7QKhlS-VLH269p2RWrsrcHpBUxqk-qzLVSkAu1bdbWZ6neXlOJIcmyGd789iEWmNIl8XcIaESdQ0DFhvJdXsRuG5r7S8Lsr5KK6ctFwQ-LkgPCGE1qFx-juz4cLfU9rSLuZcmIOU_N_DCKg9O3YtV77E8IBkjhZZwXP7&uule=Slovakia"
+        }
+      ]
+    },
+    {
+      "name": "Typ pracovného miesta",
+      "options": [
+        {
+          "name": "Plný úväzok",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRhT093pqseBPDBdQt0OwqEPUOIG3gKnL6l5RCU7F_y1VViZBBD-tuEHQykuNdS386nxiew_Yk3hHU8d8w1qMVuYRVeQpgDzZuinzJovu4I1zdoR5rxqfvflDH_FCeHGAxK5dbL3G4MBZJa7NEWFRNRrBJQgexpLXC7xadrL6iy6l7oTPvylZxZTsBEztz9ZzazyZzlJGLgCOS5X9iTJbxJQgn0-kHvouJTJSfTPZ7f4uJBl9XR6WPQAEV0bQgrVjQO1AV9jr4Bg9ypSBW29QI48z8quYzlv88sSZ1kds06MndcS2hTfLuS7-k6daYF-nyerWrYkKtWPnnvbu0Q_HEb-EJtyg",
+            "q": "MC POWER GROUP, s. r. o. plný úväzok"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+pln%C3%BD+%C3%BAv%C3%A4zok&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRhT093pqseBPDBdQt0OwqEPUOIG3gKnL6l5RCU7F_y1VViZBBD-tuEHQykuNdS386nxiew_Yk3hHU8d8w1qMVuYRVeQpgDzZuinzJovu4I1zdoR5rxqfvflDH_FCeHGAxK5dbL3G4MBZJa7NEWFRNRrBJQgexpLXC7xadrL6iy6l7oTPvylZxZTsBEztz9ZzazyZzlJGLgCOS5X9iTJbxJQgn0-kHvouJTJSfTPZ7f4uJBl9XR6WPQAEV0bQgrVjQO1AV9jr4Bg9ypSBW29QI48z8quYzlv88sSZ1kds06MndcS2hTfLuS7-k6daYF-nyerWrYkKtWPnnvbu0Q_HEb-EJtyg&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQIMBAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+pln%C3%BD+%C3%BAv%C3%A4zok&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRhT093pqseBPDBdQt0OwqEPUOIG3gKnL6l5RCU7F_y1VViZBBD-tuEHQykuNdS386nxiew_Yk3hHU8d8w1qMVuYRVeQpgDzZuinzJovu4I1zdoR5rxqfvflDH_FCeHGAxK5dbL3G4MBZJa7NEWFRNRrBJQgexpLXC7xadrL6iy6l7oTPvylZxZTsBEztz9ZzazyZzlJGLgCOS5X9iTJbxJQgn0-kHvouJTJSfTPZ7f4uJBl9XR6WPQAEV0bQgrVjQO1AV9jr4Bg9ypSBW29QI48z8quYzlv88sSZ1kds06MndcS2hTfLuS7-k6daYF-nyerWrYkKtWPnnvbu0Q_HEb-EJtyg&uule=Slovakia"
+        },
+        {
+          "name": "Skrátený úväzok",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRmZJ1jwxf4W1Wl0rIubTZwe6d_hz98dacSpw7FXsfLMs2gle-KM_izPHGVXCoC4nnINEpWqN5aihFyQETrgcDXdee52BXciNIvrc0E_W88RS1n9Pv1t1kO3GH-_oqFuINB3j6w39Uz-1vVqzGROBEiwzXPYjl1AKrTi5Ct5T4iZFHkE00RNWjQIyvF9pG0pMFXwU3xb_x5YhDeEcuLRZxlMUCuYgdfYOSR4ADWiDhpwTAByL-pishyz0R6-8E2sLAj-h_6V4ErdcUQBRgzeYMfqY_xehYDoEN9SvywR_tlzadfdGAo28wiN9MkhUUI_415vekj2I-H_eXUPqSLFrNeVPUXV0",
+            "q": "MC POWER GROUP, s. r. o. skrátený úväzok"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+skr%C3%A1ten%C3%BD+%C3%BAv%C3%A4zok&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRmZJ1jwxf4W1Wl0rIubTZwe6d_hz98dacSpw7FXsfLMs2gle-KM_izPHGVXCoC4nnINEpWqN5aihFyQETrgcDXdee52BXciNIvrc0E_W88RS1n9Pv1t1kO3GH-_oqFuINB3j6w39Uz-1vVqzGROBEiwzXPYjl1AKrTi5Ct5T4iZFHkE00RNWjQIyvF9pG0pMFXwU3xb_x5YhDeEcuLRZxlMUCuYgdfYOSR4ADWiDhpwTAByL-pishyz0R6-8E2sLAj-h_6V4ErdcUQBRgzeYMfqY_xehYDoEN9SvywR_tlzadfdGAo28wiN9MkhUUI_415vekj2I-H_eXUPqSLFrNeVPUXV0&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQIMBAD",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+skr%C3%A1ten%C3%BD+%C3%BAv%C3%A4zok&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRmZJ1jwxf4W1Wl0rIubTZwe6d_hz98dacSpw7FXsfLMs2gle-KM_izPHGVXCoC4nnINEpWqN5aihFyQETrgcDXdee52BXciNIvrc0E_W88RS1n9Pv1t1kO3GH-_oqFuINB3j6w39Uz-1vVqzGROBEiwzXPYjl1AKrTi5Ct5T4iZFHkE00RNWjQIyvF9pG0pMFXwU3xb_x5YhDeEcuLRZxlMUCuYgdfYOSR4ADWiDhpwTAByL-pishyz0R6-8E2sLAj-h_6V4ErdcUQBRgzeYMfqY_xehYDoEN9SvywR_tlzadfdGAo28wiN9MkhUUI_415vekj2I-H_eXUPqSLFrNeVPUXV0&uule=Slovakia"
+        },
+        {
+          "name": "Zmluva",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRjqmHeX0xpn4ng2z0XSfhyZYrvNTb8ASQvWwmUeHQ1MzY8v3m2QJSC4P88_PBRkT6mvZMykHlo7GLUni_jlye1IVXLaagHHUQrPJei0jX_obj_n6zmfz8EgnTH8MjhnL88gCMsreA6lT0wyUsoutRwXnMUmlRFB6aw5UAS9D0pVUDozXkEeZCavtf_4CouiDPez0ZLB82eb2Z2QtspOrEDoxZtoanuncJCngwoo0SxN3Olg1TeYw75LVb9brG9wO2GDIMf_fR1CR2kQOWcanU6SsE2tTdNQnsDUx3CMt8GZTEBYwegta8uKe0keDQCpkbhSx5WHv09DJ0fx8xROrKfTBIVUWm7H4t0RaAmpkhtke0LnJG",
+            "q": "MC POWER GROUP, s. r. o. zmluva"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+zmluva&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjqmHeX0xpn4ng2z0XSfhyZYrvNTb8ASQvWwmUeHQ1MzY8v3m2QJSC4P88_PBRkT6mvZMykHlo7GLUni_jlye1IVXLaagHHUQrPJei0jX_obj_n6zmfz8EgnTH8MjhnL88gCMsreA6lT0wyUsoutRwXnMUmlRFB6aw5UAS9D0pVUDozXkEeZCavtf_4CouiDPez0ZLB82eb2Z2QtspOrEDoxZtoanuncJCngwoo0SxN3Olg1TeYw75LVb9brG9wO2GDIMf_fR1CR2kQOWcanU6SsE2tTdNQnsDUx3CMt8GZTEBYwegta8uKe0keDQCpkbhSx5WHv09DJ0fx8xROrKfTBIVUWm7H4t0RaAmpkhtke0LnJG&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQIMBAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+zmluva&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjqmHeX0xpn4ng2z0XSfhyZYrvNTb8ASQvWwmUeHQ1MzY8v3m2QJSC4P88_PBRkT6mvZMykHlo7GLUni_jlye1IVXLaagHHUQrPJei0jX_obj_n6zmfz8EgnTH8MjhnL88gCMsreA6lT0wyUsoutRwXnMUmlRFB6aw5UAS9D0pVUDozXkEeZCavtf_4CouiDPez0ZLB82eb2Z2QtspOrEDoxZtoanuncJCngwoo0SxN3Olg1TeYw75LVb9brG9wO2GDIMf_fR1CR2kQOWcanU6SsE2tTdNQnsDUx3CMt8GZTEBYwegta8uKe0keDQCpkbhSx5WHv09DJ0fx8xROrKfTBIVUWm7H4t0RaAmpkhtke0LnJG&uule=Slovakia"
+        },
+        {
+          "name": "Stáž",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRjqmHeX0xpn4ng2z0XSfhyZYrvNTb8ASQvWwmUeHQ1MzY8v3m2QJSC4P88_PBRkT6dzt8_0fqIrsZ29Im6GfzJT2bsa6GZnPQ0JxYUjWC4C0gCC04GgBTtU_Rqt8OGGnaEmk8PlYu-JHPkO3pb__MLalJg6zMiSF2okJYpTXUsslh3kfZup2QGV_lH3HJ9xnCxbrR1is-6ZHyf-0vLCsCvBLJn88tayIfPaN4JweaR1XCt_d0ZoNy1kMCC8rXUtZxeMKgYeYY3WtTQ1muXtM1fNqSpK-r-wqJxHUwolGa-_9lJnw7MOuhI59lGESpIeSQFpFyOH6RlNIXmjr3q6M4Kqh1LV_Hd78DYBK5onyorADutaTz",
+            "q": "MC POWER GROUP, s. r. o. stáž"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+st%C3%A1%C5%BE&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjqmHeX0xpn4ng2z0XSfhyZYrvNTb8ASQvWwmUeHQ1MzY8v3m2QJSC4P88_PBRkT6dzt8_0fqIrsZ29Im6GfzJT2bsa6GZnPQ0JxYUjWC4C0gCC04GgBTtU_Rqt8OGGnaEmk8PlYu-JHPkO3pb__MLalJg6zMiSF2okJYpTXUsslh3kfZup2QGV_lH3HJ9xnCxbrR1is-6ZHyf-0vLCsCvBLJn88tayIfPaN4JweaR1XCt_d0ZoNy1kMCC8rXUtZxeMKgYeYY3WtTQ1muXtM1fNqSpK-r-wqJxHUwolGa-_9lJnw7MOuhI59lGESpIeSQFpFyOH6RlNIXmjr3q6M4Kqh1LV_Hd78DYBK5onyorADutaTz&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQIMBAF",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+st%C3%A1%C5%BE&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjqmHeX0xpn4ng2z0XSfhyZYrvNTb8ASQvWwmUeHQ1MzY8v3m2QJSC4P88_PBRkT6dzt8_0fqIrsZ29Im6GfzJT2bsa6GZnPQ0JxYUjWC4C0gCC04GgBTtU_Rqt8OGGnaEmk8PlYu-JHPkO3pb__MLalJg6zMiSF2okJYpTXUsslh3kfZup2QGV_lH3HJ9xnCxbrR1is-6ZHyf-0vLCsCvBLJn88tayIfPaN4JweaR1XCt_d0ZoNy1kMCC8rXUtZxeMKgYeYY3WtTQ1muXtM1fNqSpK-r-wqJxHUwolGa-_9lJnw7MOuhI59lGESpIeSQFpFyOH6RlNIXmjr3q6M4Kqh1LV_Hd78DYBK5onyorADutaTz&uule=Slovakia"
+        }
+      ]
+    },
+    {
+      "name": "Typ pracovného miesta",
+      "options": [
+        {
+          "name": "Plný úväzok",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRhT093pqseBPDBdQt0OwqEPUOIG3gKnL6l5RCU7F_y1VViZBBD-tuEHQykuNdS386nxiew_Yk3hHU8d8w1qMVuYRVeQpgDzZuinzJovu4I1zdoR5rxqfvflDH_FCeHGAxK5dbL3G4MBZJa7NEWFRNRrBJQgexpLXC7xadrL6iy6l7oTPvylZxZTsBEztz9ZzazyZzlJGLgCOS5X9iTJbxJQgn0-kHvouJTJSfTPZ7f4uJBl9XR6WPQAEV0bQgrVjQO1AV9jr4Bg9ypSBW29QI48z8quYzlv88sSZ1kds06MndcS2hTfLuS7-k6daYF-nyerWrYkKtWPnnvbu0Q_HEb-EJtyg",
+            "q": "MC POWER GROUP, s. r. o. plný úväzok"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+pln%C3%BD+%C3%BAv%C3%A4zok&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRhT093pqseBPDBdQt0OwqEPUOIG3gKnL6l5RCU7F_y1VViZBBD-tuEHQykuNdS386nxiew_Yk3hHU8d8w1qMVuYRVeQpgDzZuinzJovu4I1zdoR5rxqfvflDH_FCeHGAxK5dbL3G4MBZJa7NEWFRNRrBJQgexpLXC7xadrL6iy6l7oTPvylZxZTsBEztz9ZzazyZzlJGLgCOS5X9iTJbxJQgn0-kHvouJTJSfTPZ7f4uJBl9XR6WPQAEV0bQgrVjQO1AV9jr4Bg9ypSBW29QI48z8quYzlv88sSZ1kds06MndcS2hTfLuS7-k6daYF-nyerWrYkKtWPnnvbu0Q_HEb-EJtyg&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQIMBAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+pln%C3%BD+%C3%BAv%C3%A4zok&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRhT093pqseBPDBdQt0OwqEPUOIG3gKnL6l5RCU7F_y1VViZBBD-tuEHQykuNdS386nxiew_Yk3hHU8d8w1qMVuYRVeQpgDzZuinzJovu4I1zdoR5rxqfvflDH_FCeHGAxK5dbL3G4MBZJa7NEWFRNRrBJQgexpLXC7xadrL6iy6l7oTPvylZxZTsBEztz9ZzazyZzlJGLgCOS5X9iTJbxJQgn0-kHvouJTJSfTPZ7f4uJBl9XR6WPQAEV0bQgrVjQO1AV9jr4Bg9ypSBW29QI48z8quYzlv88sSZ1kds06MndcS2hTfLuS7-k6daYF-nyerWrYkKtWPnnvbu0Q_HEb-EJtyg&uule=Slovakia"
+        },
+        {
+          "name": "Skrátený úväzok",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRmZJ1jwxf4W1Wl0rIubTZwe6d_hz98dacSpw7FXsfLMs2gle-KM_izPHGVXCoC4nnINEpWqN5aihFyQETrgcDXdee52BXciNIvrc0E_W88RS1n9Pv1t1kO3GH-_oqFuINB3j6w39Uz-1vVqzGROBEiwzXPYjl1AKrTi5Ct5T4iZFHkE00RNWjQIyvF9pG0pMFXwU3xb_x5YhDeEcuLRZxlMUCuYgdfYOSR4ADWiDhpwTAByL-pishyz0R6-8E2sLAj-h_6V4ErdcUQBRgzeYMfqY_xehYDoEN9SvywR_tlzadfdGAo28wiN9MkhUUI_415vekj2I-H_eXUPqSLFrNeVPUXV0",
+            "q": "MC POWER GROUP, s. r. o. skrátený úväzok"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+skr%C3%A1ten%C3%BD+%C3%BAv%C3%A4zok&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRmZJ1jwxf4W1Wl0rIubTZwe6d_hz98dacSpw7FXsfLMs2gle-KM_izPHGVXCoC4nnINEpWqN5aihFyQETrgcDXdee52BXciNIvrc0E_W88RS1n9Pv1t1kO3GH-_oqFuINB3j6w39Uz-1vVqzGROBEiwzXPYjl1AKrTi5Ct5T4iZFHkE00RNWjQIyvF9pG0pMFXwU3xb_x5YhDeEcuLRZxlMUCuYgdfYOSR4ADWiDhpwTAByL-pishyz0R6-8E2sLAj-h_6V4ErdcUQBRgzeYMfqY_xehYDoEN9SvywR_tlzadfdGAo28wiN9MkhUUI_415vekj2I-H_eXUPqSLFrNeVPUXV0&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQIMBAD",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+skr%C3%A1ten%C3%BD+%C3%BAv%C3%A4zok&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRmZJ1jwxf4W1Wl0rIubTZwe6d_hz98dacSpw7FXsfLMs2gle-KM_izPHGVXCoC4nnINEpWqN5aihFyQETrgcDXdee52BXciNIvrc0E_W88RS1n9Pv1t1kO3GH-_oqFuINB3j6w39Uz-1vVqzGROBEiwzXPYjl1AKrTi5Ct5T4iZFHkE00RNWjQIyvF9pG0pMFXwU3xb_x5YhDeEcuLRZxlMUCuYgdfYOSR4ADWiDhpwTAByL-pishyz0R6-8E2sLAj-h_6V4ErdcUQBRgzeYMfqY_xehYDoEN9SvywR_tlzadfdGAo28wiN9MkhUUI_415vekj2I-H_eXUPqSLFrNeVPUXV0&uule=Slovakia"
+        },
+        {
+          "name": "Zmluva",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRjqmHeX0xpn4ng2z0XSfhyZYrvNTb8ASQvWwmUeHQ1MzY8v3m2QJSC4P88_PBRkT6mvZMykHlo7GLUni_jlye1IVXLaagHHUQrPJei0jX_obj_n6zmfz8EgnTH8MjhnL88gCMsreA6lT0wyUsoutRwXnMUmlRFB6aw5UAS9D0pVUDozXkEeZCavtf_4CouiDPez0ZLB82eb2Z2QtspOrEDoxZtoanuncJCngwoo0SxN3Olg1TeYw75LVb9brG9wO2GDIMf_fR1CR2kQOWcanU6SsE2tTdNQnsDUx3CMt8GZTEBYwegta8uKe0keDQCpkbhSx5WHv09DJ0fx8xROrKfTBIVUWm7H4t0RaAmpkhtke0LnJG",
+            "q": "MC POWER GROUP, s. r. o. zmluva"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+zmluva&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjqmHeX0xpn4ng2z0XSfhyZYrvNTb8ASQvWwmUeHQ1MzY8v3m2QJSC4P88_PBRkT6mvZMykHlo7GLUni_jlye1IVXLaagHHUQrPJei0jX_obj_n6zmfz8EgnTH8MjhnL88gCMsreA6lT0wyUsoutRwXnMUmlRFB6aw5UAS9D0pVUDozXkEeZCavtf_4CouiDPez0ZLB82eb2Z2QtspOrEDoxZtoanuncJCngwoo0SxN3Olg1TeYw75LVb9brG9wO2GDIMf_fR1CR2kQOWcanU6SsE2tTdNQnsDUx3CMt8GZTEBYwegta8uKe0keDQCpkbhSx5WHv09DJ0fx8xROrKfTBIVUWm7H4t0RaAmpkhtke0LnJG&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQIMBAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+zmluva&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjqmHeX0xpn4ng2z0XSfhyZYrvNTb8ASQvWwmUeHQ1MzY8v3m2QJSC4P88_PBRkT6mvZMykHlo7GLUni_jlye1IVXLaagHHUQrPJei0jX_obj_n6zmfz8EgnTH8MjhnL88gCMsreA6lT0wyUsoutRwXnMUmlRFB6aw5UAS9D0pVUDozXkEeZCavtf_4CouiDPez0ZLB82eb2Z2QtspOrEDoxZtoanuncJCngwoo0SxN3Olg1TeYw75LVb9brG9wO2GDIMf_fR1CR2kQOWcanU6SsE2tTdNQnsDUx3CMt8GZTEBYwegta8uKe0keDQCpkbhSx5WHv09DJ0fx8xROrKfTBIVUWm7H4t0RaAmpkhtke0LnJG&uule=Slovakia"
+        },
+        {
+          "name": "Stáž",
+          "parameters": {
+            "uds": "ABqPDvztZD_Nu18FR6tNPw2cK_RRjqmHeX0xpn4ng2z0XSfhyZYrvNTb8ASQvWwmUeHQ1MzY8v3m2QJSC4P88_PBRkT6dzt8_0fqIrsZ29Im6GfzJT2bsa6GZnPQ0JxYUjWC4C0gCC04GgBTtU_Rqt8OGGnaEmk8PlYu-JHPkO3pb__MLalJg6zMiSF2okJYpTXUsslh3kfZup2QGV_lH3HJ9xnCxbrR1is-6ZHyf-0vLCsCvBLJn88tayIfPaN4JweaR1XCt_d0ZoNy1kMCC8rXUtZxeMKgYeYY3WtTQ1muXtM1fNqSpK-r-wqJxHUwolGa-_9lJnw7MOuhI59lGESpIeSQFpFyOH6RlNIXmjr3q6M4Kqh1LV_Hd78DYBK5onyorADutaTz",
+            "q": "MC POWER GROUP, s. r. o. stáž"
+          },
+          "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=MC+POWER+GROUP,+s.+r.+o.+st%C3%A1%C5%BE&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjqmHeX0xpn4ng2z0XSfhyZYrvNTb8ASQvWwmUeHQ1MzY8v3m2QJSC4P88_PBRkT6dzt8_0fqIrsZ29Im6GfzJT2bsa6GZnPQ0JxYUjWC4C0gCC04GgBTtU_Rqt8OGGnaEmk8PlYu-JHPkO3pb__MLalJg6zMiSF2okJYpTXUsslh3kfZup2QGV_lH3HJ9xnCxbrR1is-6ZHyf-0vLCsCvBLJn88tayIfPaN4JweaR1XCt_d0ZoNy1kMCC8rXUtZxeMKgYeYY3WtTQ1muXtM1fNqSpK-r-wqJxHUwolGa-_9lJnw7MOuhI59lGESpIeSQFpFyOH6RlNIXmjr3q6M4Kqh1LV_Hd78DYBK5onyorADutaTz&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQkbEKegQIMBAF",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.+st%C3%A1%C5%BE&uds=ABqPDvztZD_Nu18FR6tNPw2cK_RRjqmHeX0xpn4ng2z0XSfhyZYrvNTb8ASQvWwmUeHQ1MzY8v3m2QJSC4P88_PBRkT6dzt8_0fqIrsZ29Im6GfzJT2bsa6GZnPQ0JxYUjWC4C0gCC04GgBTtU_Rqt8OGGnaEmk8PlYu-JHPkO3pb__MLalJg6zMiSF2okJYpTXUsslh3kfZup2QGV_lH3HJ9xnCxbrR1is-6ZHyf-0vLCsCvBLJn88tayIfPaN4JweaR1XCt_d0ZoNy1kMCC8rXUtZxeMKgYeYY3WtTQ1muXtM1fNqSpK-r-wqJxHUwolGa-_9lJnw7MOuhI59lGESpIeSQFpFyOH6RlNIXmjr3q6M4Kqh1LV_Hd78DYBK5onyorADutaTz&uule=Slovakia"
+        }
+      ]
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Mc power finstat",
+      "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=Mc+power+finstat&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=Mc+power+finstat&uule=Slovakia"
+    },
+    {
+      "block_position": 1,
+      "query": "Mc power jobs sro",
+      "link": "https://www.google.sk/search?sca_esv=335550648f386498&hl=sk&gl=sk&q=Mc+power+jobs+sro&sa=X&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=Mc+power+jobs+sro&uule=Slovakia"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.sk/search?q=MC+POWER+GROUP,+s.+r.+o.&sca_esv=335550648f386498&hl=sk&gl=sk&ei=fbgnaJ7LBOzT1e8P3Yud4A0&start=10&sa=N&sstk=Af40H4Vvd6ofTiD7fDMMXPkBKzeqC0yMYHN3t-vDOjrYrurpo9ZC75adnw-fdaam3mshM9Bf6VK9mQAgpLAKYqEmpXQdbfBQl2s7sA&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQ8NMDegQIMhAQ",
+    "other_pages": {
+      "2": "https://www.google.sk/search?q=MC+POWER+GROUP,+s.+r.+o.&sca_esv=335550648f386498&hl=sk&gl=sk&ei=fbgnaJ7LBOzT1e8P3Yud4A0&start=10&sa=N&sstk=Af40H4Vvd6ofTiD7fDMMXPkBKzeqC0yMYHN3t-vDOjrYrurpo9ZC75adnw-fdaam3mshM9Bf6VK9mQAgpLAKYqEmpXQdbfBQl2s7sA&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQ8tMDegQIMhAE",
+      "3": "https://www.google.sk/search?q=MC+POWER+GROUP,+s.+r.+o.&sca_esv=335550648f386498&hl=sk&gl=sk&ei=fbgnaJ7LBOzT1e8P3Yud4A0&start=20&sa=N&sstk=Af40H4Vvd6ofTiD7fDMMXPkBKzeqC0yMYHN3t-vDOjrYrurpo9ZC75adnw-fdaam3mshM9Bf6VK9mQAgpLAKYqEmpXQdbfBQl2s7sA&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQ8tMDegQIMhAG",
+      "4": "https://www.google.sk/search?q=MC+POWER+GROUP,+s.+r.+o.&sca_esv=335550648f386498&hl=sk&gl=sk&ei=fbgnaJ7LBOzT1e8P3Yud4A0&start=30&sa=N&sstk=Af40H4Vvd6ofTiD7fDMMXPkBKzeqC0yMYHN3t-vDOjrYrurpo9ZC75adnw-fdaam3mshM9Bf6VK9mQAgpLAKYqEmpXQdbfBQl2s7sA&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQ8tMDegQIMhAI",
+      "5": "https://www.google.sk/search?q=MC+POWER+GROUP,+s.+r.+o.&sca_esv=335550648f386498&hl=sk&gl=sk&ei=fbgnaJ7LBOzT1e8P3Yud4A0&start=40&sa=N&sstk=Af40H4Vvd6ofTiD7fDMMXPkBKzeqC0yMYHN3t-vDOjrYrurpo9ZC75adnw-fdaam3mshM9Bf6VK9mQAgpLAKYqEmpXQdbfBQl2s7sA&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQ8tMDegQIMhAK",
+      "6": "https://www.google.sk/search?q=MC+POWER+GROUP,+s.+r.+o.&sca_esv=335550648f386498&hl=sk&gl=sk&ei=fbgnaJ7LBOzT1e8P3Yud4A0&start=50&sa=N&sstk=Af40H4Vvd6ofTiD7fDMMXPkBKzeqC0yMYHN3t-vDOjrYrurpo9ZC75adnw-fdaam3mshM9Bf6VK9mQAgpLAKYqEmpXQdbfBQl2s7sA&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQ8tMDegQIMhAM",
+      "7": "https://www.google.sk/search?q=MC+POWER+GROUP,+s.+r.+o.&sca_esv=335550648f386498&hl=sk&gl=sk&ei=fbgnaJ7LBOzT1e8P3Yud4A0&start=60&sa=N&sstk=Af40H4Vvd6ofTiD7fDMMXPkBKzeqC0yMYHN3t-vDOjrYrurpo9ZC75adnw-fdaam3mshM9Bf6VK9mQAgpLAKYqEmpXQdbfBQl2s7sA&ved=2ahUKEwje_cm2gamNAxXsafUHHd1FB9wQ8tMDegQIMhAO"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.&start=10&uule=Slovakia",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.&start=10&uule=Slovakia",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.&start=10&uule=Slovakia",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.&start=20&uule=Slovakia",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.&start=30&uule=Slovakia",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.&start=40&uule=Slovakia",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.&start=50&uule=Slovakia",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=sk&google_domain=google.sk&hl=sk&q=MC+POWER+GROUP%2C+s.+r.+o.&start=60&uule=Slovakia"
+    }
+  }
+}
