@@ -1,9 +1,11 @@
 import json
 from serpapi import GoogleSearch
 
+SERP_API_KEY = os.getenv("SERP_API_KEY")
+
 # Paramery pre google_search - crawler
 params = {
-  "api_key": "5a4878198e466dfb74b91e3977434899026e471c42fbd14b7919451ab05d0582",
+  "api_key": SERP_API_KEY,
   "engine": "google",
   "q": "MC POWER GROUP, s. r. o.",
   "google_domain": "google.sk",
