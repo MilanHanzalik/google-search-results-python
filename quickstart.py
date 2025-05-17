@@ -1,8 +1,13 @@
+import os
 import json
+from dotenv import load_dotenv
 from serpapi import GoogleSearch
 
-SERP_API_KEY = os.getenv("SERP_API_KEY")
+# Load variables from .env into environment
+load_dotenv()
 
+SERP_API_KEY = os.getenv("SERPAPI_KEY")
+print(SERP_API_KEY)
 # Paramery pre google_search - crawler
 params = {
   "api_key": SERP_API_KEY,

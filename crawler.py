@@ -12,7 +12,7 @@ DB_NAME = os.getenv("DB_NAME")
 DB_USER = os.getenv("DB_USER")
 DB_PASSWORD = os.getenv("DB_PASSWORD")
 
-SERP_API_KEY = os.getenv("SERP_API_KEY")
+SERP_API_KEY = os.getenv("SERPAPI_KEY")
 
 def get_firmy():
     conn = psycopg2.connect(
