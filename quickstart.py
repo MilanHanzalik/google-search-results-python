@@ -16,7 +16,8 @@ params = {
   "google_domain": "google.sk",
   "gl": "sk",
   "hl": "sk",
-  "uule": "Slovakia"
+  "uule": "Slovakia",
+  "num": "20",
 }
 
 search = GoogleSearch(params)
