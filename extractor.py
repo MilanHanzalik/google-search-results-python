@@ -2,6 +2,8 @@ import re
 
 EMAIL_REGEX = r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
 PHONE_REGEX = r"(?:\+421|0)?\s?(?:\d{2,3})\s?\d{3}\s?\d{3}"
+#PHONE_REGEX = r"(?:\+421|0)\s*\d{2,3}[\s-]?\d{3}[\s-]?\d{3}"
+#PHONE_REGEX = r"(?:\+421|0)\D*\d{2,3}\D*\d{3}\D*\d{3}"
 
 def extract_emails(text: str) -> list:
     return re.findall(EMAIL_REGEX, text)
