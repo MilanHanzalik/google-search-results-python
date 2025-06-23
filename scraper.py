@@ -124,8 +124,8 @@ def main():
         else:
             continue  # ak sme nemali chybu, skipni log chyby
         
-        log_scraper_result(ico, url, "error", [], [], str(e))
-        print(f"❌ Chyba pri {ico} ({url}): {e}")
+        log_scraper_result(ico, url, "error", [], [], str(chyba))
+        print(f"❌ Chyba pri {ico} ({url}): {chyba}")
         
 
 if __name__ == "__main__":
