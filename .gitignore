@@ -1,6 +1,9 @@
 # ignore files
 build/
 .pytest_cache/
+scraped_html/
+googlesearch_results.json
+googlesearch_scraper_results.json
 
 # Compiled python modules.
 *.pyc

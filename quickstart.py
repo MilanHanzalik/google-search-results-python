@@ -35,8 +35,6 @@ elif "organic_results" in results and results["organic_results"]:
 # Výpis a uloženie
 print("Nájdená stránka:", website if website else "[nenájdená]")
 
-print(results)
-
 # Ulož do súboru results.json
 with open("googlesearch_results.json", "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
